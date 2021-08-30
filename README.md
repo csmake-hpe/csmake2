@@ -1,5 +1,8 @@
-# csmake
-Completely Specified Make (csmake) tool - modular build scripting tool
+# csmake2
+Completely Specified Make (csmake) tool for python v2 - modular build scripting tool
+
+This repository was split on August 29, 2021 to move to supporting python v3.
+As such, this repository is depricated.
 
 # Overview and Motivation
 Most build tools (such as make, ant, maven, etc.) are centered around the idea
